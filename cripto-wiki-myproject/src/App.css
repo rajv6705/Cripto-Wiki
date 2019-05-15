@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+#inpt {
+  width: 25%;
+  margin-right: 10px;
+}
+#btn {
+  background-color: #00ff99;
+}
+#frame {
+  margin-top: 10px;
+  background-color: #009999;
+  height: 25px;
+}
+#frame1 {
+  float: left;
+  background-color: #99ffff;
+  height: 260px;
+  width: 300px;
+}
+#frame3 {
+  background-color: #99ffff;
+  margin-top: 260px;
+  width: 300px;
+  height: 300px;
+}
+#frame2 {
+  float: right;
+  background-color: #99ffff;
+  width: 1048px;
+  height: 500px;
+}
